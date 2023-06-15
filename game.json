@@ -1,0 +1,7 @@
+[
+  {"nama": "Counter Strike : Global Offensive", "publisher": "Valve Corporation", "imageResId": "Csgo"},
+  {"nama": "FIFA 23", "publisher": "Electronic Arts", "imageResId": "Fifa"},
+  {"nama": "Grand Theft Auto V", "publisher": "Rockstar Games", "imageResId": "Gta"},
+  {"nama": "Fortnite", "publisher": "Epic Games", "imageResId": "Fortnite"},
+  {"nama": "Valorant", "publisher": "RIOT Games", "imageResId": "Valorant"}
+]
